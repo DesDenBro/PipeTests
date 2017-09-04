@@ -1,0 +1,6 @@
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Pipe1\bin\Debug\Pipe1.exe.config
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Pipe1\bin\Debug\Pipe1.exe
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Pipe1\bin\Debug\Pipe1.pdb
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Pipe1\obj\Debug\Pipe1.csproj.CoreCompileInputs.cache
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Pipe1\obj\Debug\Pipe1.exe
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Pipe1\obj\Debug\Pipe1.pdb

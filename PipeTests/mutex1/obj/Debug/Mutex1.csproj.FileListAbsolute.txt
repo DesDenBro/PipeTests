@@ -1,0 +1,13 @@
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Mutex1\bin\Debug\Mutex1.exe.config
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Mutex1\bin\Debug\Mutex1.exe
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Mutex1\bin\Debug\Mutex1.pdb
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Mutex1\obj\Debug\Mutex1.csproj.CoreCompileInputs.cache
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Mutex1\obj\Debug\Mutex1.exe
+d:\My Documents\Visual Studio 2017\Projects\PipeTests\Mutex1\obj\Debug\Mutex1.pdb
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\bin\Debug\Mutex1.exe.config
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\bin\Debug\Mutex1.exe
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\bin\Debug\Mutex1.pdb
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\obj\Debug\Mutex1.csprojResolveAssemblyReference.cache
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\obj\Debug\Mutex1.csproj.CoreCompileInputs.cache
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\obj\Debug\Mutex1.exe
+C:\Users\Blinov\Desktop\PipeTests\Mutex1\obj\Debug\Mutex1.pdb
